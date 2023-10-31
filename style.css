@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: Tahoma; 
+    text-align: center;  
+}
+
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-weight: normal;
+    color: #1c81c0;
+    margin-top: 0;
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+img {
+    width: 450px;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+    margin-bottom: 35px;
+}
+
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+#lista-assuntos {
+    list-style-position: inside; 
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.item {
+    margin-left: 800px;
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+.letra_amarela {
+    color: yellow;
+    font-weight: bold;
+}
+
+.letra_azul {
+    color: #1C81C1;
+    font-weight: bold;
+}
+
+.link-topo {
+    color: #1d1d1d;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: 2px solid #1d1d1d;
+}
+
+#banner {
+    width: 50%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#configuracao {
+    background-color: #afddfb;
+    margin: 0 auto;
+    text-align: center;    
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#logo {
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#servicos, #contato {
+    background-color: #1C81C1;
+    padding: 10px 0px;
+    color: white;
+}
+
+#local {
+    width: 600px;
+    height: 300px;
+}
+
+#paragrafo-interesse {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#paragrafo-servicos {
+    color: #ffffff;
+    line-height: 42px;
+    width: 700px;
+    font-size: 22px;
+    text-align: center;
+}
